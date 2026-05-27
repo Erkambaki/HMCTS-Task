@@ -1,4 +1,4 @@
-\# HMCTS Task Management System
+# HMCTS Task Management System
 
 
 
@@ -6,21 +6,21 @@ A full-stack task management application for HMCTS caseworkers.
 
 
 
-\## Structure
+## Structure
 
 
 
-\- `backend/` — Node.js + Express REST API with SQLite
+- `backend/` — Node.js + Express REST API with SQLite
 
-\- `frontend/` — React application
-
-
-
-\## Quick Start
+- `frontend/` — React application
 
 
 
-\### Backend
+## Quick Start
+
+
+
+### Backend
 
 ```bash
 
@@ -34,7 +34,7 @@ npm start
 
 
 
-\### Frontend
+### Frontend
 
 ```bash
 
